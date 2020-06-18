@@ -7,7 +7,6 @@
 }
 .hui {
     width: 100%;
-    height: 90vh;
     display: grid;
     justify-items: center;
     align-items: center;
@@ -126,6 +125,11 @@
     width:100%;
     justify-items:center;
     align-items:center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 #text {
     width: 50%;
