@@ -9,14 +9,14 @@ import { css } from "@emotion/core";
 const override = css`display: block; margin: 0 auto; border-color: #3D94F6;`;
 
 var firebaseConfig = {
-    apiKey: "AIzaSyCqRBXisvw_76iCFf0NAtbBgErbaA5AgII",
-    authDomain: "ccna-f2c07.firebaseapp.com",
-    databaseURL: "https://ccna-f2c07.firebaseio.com",
-    projectId: "ccna-f2c07",
-    storageBucket: "ccna-f2c07.appspot.com",
-    messagingSenderId: "33426470764",
-    appId: "1:33426470764:web:9161687057ad1a936c6549",
-    measurementId: "G-EXGHK7EX9K"
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxx.firebaseapp.com",
+    databaseURL: "https://xxxxxxxxxxxxxx.firebaseio.com",
+    projectId: "xxxxxxxxxxxx",
+    storageBucket: "xxxxxxxxxxxxxx.appspot.com",
+    messagingSenderId: "xxxxxxxxxxx",
+    appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    measurementId: "xxxxxxxxxxxxxxxxxxxxx"
 };
 
 if (!firebase.apps.length) {
